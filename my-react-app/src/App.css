@@ -1,0 +1,80 @@
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.data-container {
+  margin: 7px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  background-color: rgb(248, 245, 245);
+}
+.data-container h2 {
+  font-size: 30px;
+}
+.heading{
+  font-size: 35px;
+  text-align: center;
+}
+.users {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 3rem auto;
+}
+.users img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.form-container {
+  margin: 10px;
+  padding: 5px 10px;
+  background-color: rgb(187, 219, 230);
+  width: 350px;
+  height: 300px;
+  border-radius: 10px;
+  display: block;
+}
+.form-container h2 {
+  text-align: center;
+}
+.form-container input {
+   margin: 15px 0px;
+   width: 300px;
+   background: transparent;
+   border: none;
+   border-bottom: 2px solid grey;
+   outline: none;
+}
+.submit-btn {
+  margin: 10px 0px;
+  width: 300px;
+  background-color: rgb(140, 202, 223);
+}
+.form-containers {
+  margin: 10px;
+  padding: 5px 20px;
+  background-color: rgb(187, 219, 230);
+  width: 350px;
+  height: 600px;
+  border-radius: 10px;
+  display: block;
+}
+.form-containers h2 {
+  text-align: center;
+}
+.form-containers input {
+  margin: 8px 0px;
+  width: 300px;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid grey;
+  outline: none;
+}
+.card-bg p {
+  font-weight: 600;
+}
